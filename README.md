@@ -4,9 +4,9 @@
 
 ## 🌟 About Me
 
-Web3 Hackerとして活動中。ブロックチェーン技術を活用したプロダクト開発に情熱を注いでいます。
-現在は[株式会社RuckPlus](https://www.ruckplus-tech.io/)の代表取締役として、SES事業を展開。
-また、XRPL Japan MemberとしてXRP Ledgerのエコシステム発展にも貢献しています。
+- Web3 Hackerとして活動中。ブロックチェーン技術を活用したプロダクト開発に情熱を注いでいます。
+- 現在は[株式会社RuckPlus](https://www.ruckplus-tech.io/)の代表取締役として、SES事業を展開。
+- また、XRPL Japan MemberとしてXRP Ledgerのエコシステム発展にも貢献しています。
 
 ## 💻 Technical Skills
 
